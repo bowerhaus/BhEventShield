@@ -1,0 +1,36 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="2" iosDevice="0" xcodeVersion="0" packageName="com.yourdomain.yourapp" logicalHeight="1024" logicalWidth="768" retinaDisplay="1" assetsOnly="0" orientation="1" architecture="0">
+  <imageScales>
+   <scale suffix="@2x" scale="2"/>
+  </imageScales>
+ </properties>
+ <file source="main.lua"/>
+ <file source="../BhGesturePad/GesturePadDemo.lua"/>
+ <file source="init.lua"/>
+ <folder name="Images">
+  <file source="../BhGesturePad/Images/BhDesk.png"/>
+ </folder>
+ <folder name="Libraries">
+  <file source="../../Misc/Json.lua"/>
+  <file source="../BhButton/BhButton.lua"/>
+  <folder name="Fonts">
+   <file source="../BhGesturePad/GesturePad/Fonts/Tahoma.ttf"/>
+  </folder>
+  <file source="../BhAutoRotation/BhAutoRotation.lua"/>
+  <file source="../BhGesturePad/GesturePad/Gestures.lua"/>
+  <file source="../BhGesturePad/GesturePad/BhWritingSurface.lua"/>
+  <file source="../BhGesturePad/GesturePad/BhGesturePad.lua"/>
+  <file source="../../../../../../../../Applications/Gideros Studio/Examples/Graphics/GTween/gtween.lua"/>
+  <file source="../../../../../../../../Applications/Gideros Studio/Examples/Graphics/GTween/easing.lua"/>
+  <folder name="Images">
+   <file source="../BhGesturePad/GesturePad/Images/BhGesturePad@2x.txt"/>
+   <file source="../BhGesturePad/GesturePad/Images/BhGesturePad@2x.png"/>
+   <file source="../BhGesturePad/GesturePad/Images/BhGesturePad.txt"/>
+   <file source="../BhGesturePad/GesturePad/Images/BhGesturePad.png"/>
+  </folder>
+  <file source="../../Misc/strict.lua"/>
+  <file source="../BhHelpers/BhHelpers.lua"/>
+  <file source="../../Misc/DataDumper.lua"/>
+ </folder>
+ <file source="BhEventShield.lua"/>
+</project>

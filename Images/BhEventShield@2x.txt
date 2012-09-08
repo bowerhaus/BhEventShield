@@ -1,0 +1,11 @@
+EjectButton.png, 242, 728, 238, 240, 0, 0, 0, 0
+FastForwardButton.png, 242, 486, 238, 240, 0, 0, 0, 0
+LoopButton.png, 242, 244, 238, 240, 0, 0, 0, 0
+PauseButton.png, 722, 2, 238, 240, 0, 0, 0, 0
+PlayButton.png, 482, 2, 238, 240, 0, 0, 0, 0
+PowerButton.png, 242, 2, 238, 240, 0, 0, 0, 0
+RecordButton.png, 482, 244, 236, 240, 0, 0, 0, 0
+RewindButton.png, 2, 728, 238, 240, 0, 0, 0, 0
+StepBackwardButton.png, 2, 486, 238, 240, 0, 0, 0, 0
+StepForwardButton.png, 2, 244, 238, 240, 0, 0, 0, 0
+StopButton.png, 2, 2, 238, 240, 0, 0, 0, 0
